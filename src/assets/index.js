@@ -1,4 +1,5 @@
-import logo from "./logo.svg";
+import logoLight from "./logo-light.svg";
+import logoDark from "./logo-dark.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -31,7 +32,8 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
-  logo,
+  logoLight,
+  logoDark,
   backend,
   creator,
   mobile,
